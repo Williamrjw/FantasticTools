@@ -6,10 +6,12 @@ Here is the repository of some of my tools show on my website https://williamrjw
 
 ## Ksong K歌
 quanmin\*\* 
+[攻略](Ksong/T000.md)
 
 
 ## haokan 好看
 \*\*shipin
+[攻略](haokan/T001.md)
 
 ## Updating 更新中
 
